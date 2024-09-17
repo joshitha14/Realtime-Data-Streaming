@@ -24,7 +24,7 @@ The project is designed with the following components:
 - Distributed synchronization with Apache Zookeeper
 - Data processing techniques with Apache Spark
 - Data storage solutions with Cassandra and PostgreSQL
-- Containerizing your entire data engineering setup with Docker
+- Containerizing the entire data engineering setup with Docker
 
 ## Technologies
 
